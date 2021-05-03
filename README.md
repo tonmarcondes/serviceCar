@@ -7,7 +7,9 @@
 
 ## SISTEMA PARA GERENCIAMENTO DE OFICINA
 
-### Comandos Git
+### Comandos Git 
+
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
 
 * Para o início das atividades é interessante realizar um **`git pull`** para resgatar as atualizações caso existam.
 
