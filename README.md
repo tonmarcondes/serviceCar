@@ -19,4 +19,4 @@
 
 * Uma vez adicionado(s), insira uma marca na linha do tempo, indicando que deseja guardar as alterações até ali com **`git commit -m "nome_do_commit"`**
 
-* Ao término das atividades, crie um commit para marcar a linha do tempo, caso seja necessário e em seguida envie tudo para a nuvem para que fique resguardado através do comando **`git push --set-upstream origin "nome_da_branch"`**
+* Ao término das atividades, crie um commit para marcar a linha do tempo, caso seja necessário e em seguida envie tudo para a nuvem para que fique resguardado através do comando **`git push --set-upstream origin "nome_da_branch"`** (se sua branch nunca foi guardada no GitHub), do contrário pode fazer apenas um **`git push`**
