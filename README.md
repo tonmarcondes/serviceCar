@@ -11,7 +11,7 @@
 
 * Para o início das atividades é interessante realizar um **`git pull`** para resgatar as atualizações caso existam.
 
-* Para não afetar o a *branch* (ramo) main, uma nova branch deve ser criada para realizar as alterações e realizar testes com o **`git checkout -b "nome_da_branch"`**
+* Para não afetar o a *branch* (ramo) main, uma nova branch deve ser criada para realizar as alterações e realizar testes com o **`git checkout -b "nome_da_branch"`** (cria e entra automaticamente), caso sua branch já exista apenas o comando **`git checkout "nome_da_branch"`** é suficiente
 
 * Caso queira saber em que branch está, use o comando **`git branch`**
 
