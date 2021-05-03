@@ -6,6 +6,3 @@
 window.alert('Olá mundo')
 ~~~
 
-~~~html
-<p>Olá mundo</p>
-~~~
