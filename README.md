@@ -9,7 +9,7 @@
 
 ### Comandos Git para ajudar
 
-<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" title="" alt="" width="63">
+![Imagem Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
 * Para o início das atividades é interessante realizar um **`git pull`** para resgatar as atualizações caso existam.
 
@@ -22,5 +22,3 @@
 * Uma vez adicionado(s), insira uma marca na linha do tempo, indicando que deseja guardar as alterações até ali com **`git commit -m "nome_do_commit"`**
 
 * Ao término das atividades, crie um commit para marcar a linha do tempo, caso seja necessário e em seguida envie tudo para a nuvem para que fique resguardado através do comando **`git push --set-upstream origin "nome_da_branch"`** (se sua branch nunca foi guardada no GitHub), do contrário pode fazer apenas um **`git push`**
-  
-  
